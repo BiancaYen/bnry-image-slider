@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SliderItem renders with all required prop types 1`] = `
+<Container>
+  <ClickContainer
+    alignment="left"
+    data-test="previous"
+    onClick={[Function]}
+    role="button"
+    tabIndex="0"
+  />
+  <ClickContainer
+    alignment="right"
+    data-test="next"
+    onClick={[Function]}
+    role="button"
+    tabIndex="0"
+  />
+  <img
+    alt="Title"
+    src="https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  />
+</Container>
+`;

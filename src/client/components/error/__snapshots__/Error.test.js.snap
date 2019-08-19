@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error renders with all required prop types 1`] = `
+<Container>
+  Error
+</Container>
+`;

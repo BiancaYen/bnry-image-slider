@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders with all required prop types 1`] = `
+<Container>
+  <Tooltip
+    alignment="left"
+  >
+    Tooltip
+  </Tooltip>
+  <button
+    onClick={[Function]}
+    type="type"
+  >
+    Title
+  </button>
+</Container>
+`;

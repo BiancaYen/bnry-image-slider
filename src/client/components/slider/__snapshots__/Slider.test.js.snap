@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider renders with all required prop types 1`] = `
+<Container>
+  <InnerContainer
+    transitionSeconds={1000}
+    translateX={-1024}
+  >
+    <SliderItem
+      key="last-2"
+      onNextClick={[Function]}
+      onPreviousClick={[Function]}
+    >
+      <Image
+        source="https://ucarecdn.com/aa29889f-263e-44e4-a142-22c2725ab1a4/magenta_morning.jpg"
+        title="Magenta Morning"
+      />
+    </SliderItem>
+    <SliderItem
+      key="1"
+      onNextClick={[Function]}
+      onPreviousClick={[Function]}
+    >
+      <Image
+        source="https://ucarecdn.com/2adfdb85-53dd-435c-a85d-13cdb1839f98/azure_serenity.jpg"
+        title="Azure Serenity"
+      />
+    </SliderItem>
+    <SliderItem
+      key="2"
+      onNextClick={[Function]}
+      onPreviousClick={[Function]}
+    >
+      <Image
+        source="https://ucarecdn.com/aa29889f-263e-44e4-a142-22c2725ab1a4/magenta_morning.jpg"
+        title="Magenta Morning"
+      />
+    </SliderItem>
+    <SliderItem
+      key="first-1"
+      onNextClick={[Function]}
+      onPreviousClick={[Function]}
+    >
+      <Image
+        source="https://ucarecdn.com/2adfdb85-53dd-435c-a85d-13cdb1839f98/azure_serenity.jpg"
+        title="Azure Serenity"
+      />
+    </SliderItem>
+  </InnerContainer>
+  <ButtonContainer>
+    <Button
+      alignment="left"
+      onClick={[Function]}
+      tooltip="Magenta Morning | by Paul Charles K"
+    >
+      Previous
+    </Button>
+    <TitleCopy>
+      Azure Serenity | by Paul Charles K
+    </TitleCopy>
+    <Button
+      alignment="right"
+      onClick={[Function]}
+      tooltip="Magenta Morning | by Paul Charles K"
+    >
+      Next
+    </Button>
+  </ButtonContainer>
+</Container>
+`;

@@ -1,0 +1,8 @@
+.vscode
+.idea
+.travis.yml
+.DS_Store
+node_modules
+dist
+*.log
+yarn.lock

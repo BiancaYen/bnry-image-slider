@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders with all required prop types 1`] = `
+<Container>
+  <ForwardRef(render)
+    styles={
+      Object {
+        "map": "/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFRdUIiLCJmaWxlIjoic3R5bGVzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgY3NzIH0gZnJvbSAnQGVtb3Rpb24vY29yZSc7XG5pbXBvcnQgc3R5bGVkIGZyb20gJ0BlbW90aW9uL3N0eWxlZCc7XG5cbi8vIFV0aWxzXG5pbXBvcnQgZ2V0VGhlbWUgZnJvbSAnLi4vdXRpbHMvZ2V0VGhlbWUnO1xuXG5jb25zdCBnZXRQcm9wZXJ0eSA9IGdldFRoZW1lKCdhcHAnKTtcblxuY29uc3QgcmVzZXRTdHlsZXMgPSBjc3NgXG4gICAgKiB7XG4gICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAgICAgZm9udC1mYW1pbHk6ICdQb3BwaW5zJywgc2Fucy1zZXJpZjtcbiAgICB9XG4gICAgXG4gICAgaHRtbCwgYm9keSB7XG4gICAgICBtYXJnaW46IDA7XG4gICAgICBoZWlnaHQ6IDEwMCU7XG4gICAgICAgID4gZGl2IHtcbiAgICAgICAgICAmOmZpcnN0LW9mLXR5cGUge1xuICAgICAgICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgICAgIH1cbiAgICAgICAgfVxuICAgIH1cblxuICAgIGh0bWwsIGJvZHksIGJ1dHRvbiwgZGl2LCBzcGFuLCBhcHBsZXQsIG9iamVjdCwgaWZyYW1lLCBoMSwgaDIsIGgzLCBoNCwgaDUsIGg2LCBwLCBibG9ja3F1b3RlLCBwcmUsIGEsIGFiYnIsIGFjcm9ueW0sIGFkZHJlc3MsIGJpZywgY2l0ZSxcbiAgICBjb2RlLCBkZWwsIGRmbiwgZW0sIGltZywgaW5zLCBrYmQsIHEsIHMsIHNhbXAsIHNtYWxsLCBzdHJpa2UsIHN0cm9uZywgc3ViLCBzdXAsIHR0LCB2YXIsIGIsIHUsIGksIGNlbnRlciwgZGwsIGR0LCBkZCwgb2wsIHVsLCBsaSxcbiAgICBmaWVsZHNldCwgZm9ybSwgbGFiZWwsIGxlZ2VuZCwgdGFibGUsIGNhcHRpb24sIHRib2R5LCB0Zm9vdCwgdGhlYWQsIHRyLCB0aCwgdGQsIGFydGljbGUsIGFzaWRlLCBjYW52YXMsIGRldGFpbHMsIGVtYmVkLCAgZmlndXJlLFxuICAgIGZpZ2NhcHRpb24sIGZvb3RlciwgaGVhZGVyLCBoZ3JvdXAsICBtZW51LCBuYXYsIG91dHB1dCwgcnVieSwgc2VjdGlvbiwgc3VtbWFyeSwgdGltZSwgbWFyaywgYXVkaW8sIHZpZGVvIHsgIFxuICAgICAgICBtYXJnaW46IDA7ICBcbiAgICAgICAgcGFkZGluZzogMDsgXG4gICAgICAgIGJvcmRlcjogMDsgIFxuICAgICAgICBmb250LWZhbWlseTogJ1BsYXlmYWlyIERpc3BsYXknLCBzZXJpZjtcbiAgICAgICAgdmVydGljYWwtYWxpZ246IGJhc2VsaW5lO1xuICAgICAgICBsZXR0ZXItc3BhY2luZzogMS4ycHg7IFxuICAgIH1cbiAgICBcbiAgICBhIHtcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgIH1cbmA7XG5cbmNvbnN0IENvbnRhaW5lciA9IHN0eWxlZC5kaXZgXG4gICAgYmFja2dyb3VuZDogJHtnZXRQcm9wZXJ0eSgnYmFja2dyb3VuZCcpfTtcbiAgICBoZWlnaHQ6IDEwMCU7XG5gO1xuXG5leHBvcnQge1xuICAgIENvbnRhaW5lcixcbiAgICByZXNldFN0eWxlc1xufTtcbiJdfQ== */",
+        "name": "om41hg-resetStyles",
+        "styles": "*{box-sizing:border-box;font-family:'Poppins',sans-serif;}html,body{margin:0;height:100%;> div{&:first-of-type{height:100%;}}}html,body,button,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-family:'Playfair Display',serif;vertical-align:baseline;letter-spacing:1.2px;}a{text-decoration:none;}label:resetStyles;",
+      }
+    }
+  />
+  <Loader
+    isLoading={true}
+  >
+    <DisplayContent
+      isDisplayed={true}
+    >
+      <Slider
+        items={Array []}
+      />
+      <Else>
+        <Error>
+          <br />
+          We can't load the slider
+        </Error>
+      </Else>
+    </DisplayContent>
+  </Loader>
+</Container>
+`;

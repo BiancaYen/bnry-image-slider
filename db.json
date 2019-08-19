@@ -1,0 +1,64 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "artist": "Paul Charles K",
+            "source": "https://ucarecdn.com/2adfdb85-53dd-435c-a85d-13cdb1839f98/azure_serenity.jpg",
+            "title": "Azure Serenity"
+        },
+        {
+            "id": 2,
+            "artist": "Paul Charles K",
+            "source": "https://ucarecdn.com/aa29889f-263e-44e4-a142-22c2725ab1a4/magenta_morning.jpg",
+            "title": "Magenta Morning"
+        },
+        {
+            "id": 3,
+            "artist": "Paul Charles K",
+            "source": "https://ucarecdn.com/9829dae2-3900-4b54-a192-a0c0026e27a4/ocean_on_the_rocks.jpg",
+            "title": "Ocean On The Rocks"
+        },
+        {
+            "id": 4,
+            "artist": "Paul Charles K",
+            "source": "https://ucarecdn.com/30cd6970-2d27-4303-aa62-48ab24ef1dfb/white_sands_national_monument.jpg",
+            "title": "White Sands National Monument"
+        },
+        {
+            "id": 5,
+            "artist": "Destin",
+            "source": "https://ucarecdn.com/265e3b42-4025-48f1-b9d6-30ebf405a5a3/in_bloom.jpg",
+            "title": "In Bloom"
+        },
+        {
+            "id": 6,
+            "artist": "Yohey Yamagata",
+            "source": "https://ucarecdn.com/81866011-61f2-45b5-a9f3-441db0e25e6a/twilight_islands.jpg",
+            "title": "Twilight Islands"
+        },
+        {
+            "id": 7,
+            "artist": "Alex Milkis",
+            "source": "https://ucarecdn.com/02bf8865-b573-4d35-839a-34dccdf8f9dd/lonely_island.jpg",
+            "title": "Lonely Island"
+        },
+        {
+            "id": 8,
+            "artist": "Ben Gustafson",
+            "source": "https://ucarecdn.com/32b32795-1f7c-401f-8c73-6a6d927c172c/zion_waterfall_after_the_storm.jpg",
+            "title": "Waterfall After The Storm"
+        },
+        {
+            "id": 9,
+            "artist": "Designmesk",
+            "source": "https://ucarecdn.com/bd700a01-d104-4bad-b920-8423abade900/pag_view.jpg",
+            "title": "Pag View"
+        },
+        {
+            "id": 10,
+            "artist": "TheWanderingSoul",
+            "source": "https://ucarecdn.com/9a0118f3-bac5-4a9f-97be-e9dca03034cf/silent_lake.jpg",
+            "title": "Silent Lake"
+        }
+    ]
+}
